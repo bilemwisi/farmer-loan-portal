@@ -1,0 +1,2 @@
+# farmer-loan-portal
+thinking on creating system that would allow farmer to register them selves in small financial organization 
